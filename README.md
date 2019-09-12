@@ -1,2 +1,2 @@
 # Mpemba-Effect-Case-study
-Documentation (including code used) of my self-designed Experiment
+Documentation (including code used) for my self-designed Experiment
